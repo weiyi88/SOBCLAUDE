@@ -11,7 +11,7 @@
 ## 模型：
 - [深度求索](https://www.deepseek.com/)
 - [通义千问](https://www.aliyun.com/product/tongyi?utm_content=se_1021866437)
-- [月之暗面-kimi](https://platform.moonshot.cn/playground)
+- [月之暗面-kimi](https://www.moonshot.cn)
 - [智谱](https://www.bigmodel.cn/invite?icode=2vtjZVrkA1BJOGpyOR21LkjPr3uHog9F4g5tjuOUqno%3D)
 
 
