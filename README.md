@@ -1,5 +1,5 @@
 # SOBCLAUDE
-son of bitch ，敌对东大的bitch Claude 爱用不用，以下是国内能平替claude 的产品
+son of bitch claude 敌对东大的 bitch ,爱用不用，以下是国内能平替 claude 的产品
 
 
 平台：
